@@ -1,0 +1,2 @@
+# vazir
+this first repo
