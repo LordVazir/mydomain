@@ -1,4 +1,5 @@
 # vazir
+
 this first repo
 <br>
-author Vazir
+author tejas  
